@@ -1,2 +1,2 @@
 # HelloWorld1122
-First Github repository following the tutorial
+First Github repository created by following the tutorial.
